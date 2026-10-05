@@ -199,3 +199,12 @@ will be impractically slow for this step.
 - Performed error analysis identifying implicit/context-dependent sentiment
   as the dominant failure mode, with targeted checks ruling out negation and
   numeric figures as expected difficulties.
+
+## Files for Deployment
+1) app.py
+
+2) requirements_deploy.txt
+
+3) DockerFile
+
+4) .dockerignore
