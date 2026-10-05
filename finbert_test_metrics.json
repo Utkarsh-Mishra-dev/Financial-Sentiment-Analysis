@@ -1,0 +1,5 @@
+{
+  "model": "FinBERT (fine-tuned)",
+  "test_accuracy": 0.8925619834710744,
+  "test_macro_f1": 0.8802738171481219
+}

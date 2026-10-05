@@ -1,0 +1,10 @@
+datasets>=2.14,<4.0   # <4.0 because the PhraseBank repo uses a loading script
+transformers>=4.40
+accelerate>=0.30
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+ipykernel
